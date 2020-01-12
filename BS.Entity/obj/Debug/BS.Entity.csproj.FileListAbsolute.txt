@@ -1,0 +1,11 @@
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\bin\Debug\BS.Entity.dll
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\bin\Debug\BS.Entity.pdb
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\bin\Debug\BS.Infrastructure.dll
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\bin\Debug\BS.Infrastructure.pdb
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\obj\Debug\BS.Entity.csprojAssemblyReference.cache
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\obj\Debug\BS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\obj\Debug\BS.Entity.csproj.CopyComplete
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\obj\Debug\BS.Entity.dll
+C:\Users\msi-\source\repos\BSTemplate\BS.Entity\obj\Debug\BS.Entity.pdb
